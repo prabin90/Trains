@@ -1,0 +1,8 @@
+[0m[[0m[33mwarn[0m] [0m[0m/Users/sigmoid/IdeaProjects/trains/src/main/scala/trains/Edge.scala:9:8: Reference to uninitialized variable next[0m
+[0m[[0m[33mwarn[0m] [0m[0m  this.next = null[0m
+[0m[[0m[33mwarn[0m] [0m[0m       ^[0m
+[0m[[0m[33mwarn[0m] [0m[0m1 deprecation (since 2.13.0)[0m
+[0m[[0m[33mwarn[0m] [0m[0m1 deprecation (since 2.13.2)[0m
+[0m[[0m[33mwarn[0m] [0m[0m1 deprecation (since 2.13.3)[0m
+[0m[[0m[33mwarn[0m] [0m[0m3 deprecations in total; re-run with -deprecation for details[0m
+[0m[[0m[33mwarn[0m] [0m[0m5 warnings found[0m
