@@ -70,7 +70,10 @@ The project is a sbt build.
 `using cli`
 *   install sbt
 *   go to the project parent folder and run below command"  
-    `sbt run`
+    	running the whole project(main driver)):
+		`sbt run`
+	running unit test:
+		`sbt test`
 *   the cli will wait for user input , the user input will be the list of edges:
     
     `AB5, BC4, CD8, DC8, DE6, AD5, CE2, EB3, AE7`
